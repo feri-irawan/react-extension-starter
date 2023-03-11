@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "name": "My React Extension",
+  "author": "Feri Irawan",
   "version": "1.0.0",
   "description": "A simple extension built using React",
   "browser_action": {
